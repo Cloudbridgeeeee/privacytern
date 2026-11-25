@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://privacytern.top/sitemap.xml
+Sitemap: https://privacytern.site/sitemap.xml

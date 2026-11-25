@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for PrivacyTern.
 - Industry: SexTech, Data Privacy, Customer Support
 - Founder: Emmanuel Adebayo (Founder & CEO)
 - Co-founder: Ngozi Eke (Co-founder & CTO)
-- Contact: emmanuel@privacytern.top
+- Contact: emmanuel@privacytern.site
 - Business model: Usage-based subscriptions
 
 ## Stack
