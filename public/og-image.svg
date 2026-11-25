@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="r" cx="0.8" cy="0" r="0.9"><stop offset="0" stop-color="#8b7bff" stop-opacity=".35"/><stop offset="1" stop-color="#0c0c12" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0c0c12"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g transform="translate(80 90) scale(1.4)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b7bff"/><stop offset="1" stop-color="#45e3b4"/></linearGradient></defs><path d="M32 4l24 14v28L32 60 8 46V18z" fill="url(#g)"/><path d="M32 18l12 7v14l-12 7-12-7V25z" fill="#ff9ec4"/></g>
+  <text x="190" y="150" font-family="Unbounded, Georgia, serif" font-size="54" font-weight="600" fill="#eeeef8">PrivacyTern</text>
+  <text x="80" y="330" font-family="Unbounded, Georgia, serif" font-size="72" font-weight="500" fill="#eeeef8">Privacy-first adult</text>
+  <text x="80" y="414" font-family="Unbounded, Georgia, serif" font-size="72" font-weight="500" fill="#eeeef8">wellness customer support.</text>
+  <text x="80" y="560" font-family="monospace" font-size="24" fill="#8b7bff" letter-spacing="4">SEXTECH  ·  DATA PRIVACY  ·  CUSTOMER SUPPORT</text>
+</svg>

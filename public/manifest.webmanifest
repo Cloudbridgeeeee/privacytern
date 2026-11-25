@@ -1,0 +1,16 @@
+{
+  "name": "PrivacyTern",
+  "short_name": "PrivacyTern",
+  "description": "AI privacy software that helps authorized adult wellness support teams identify and redact unnecessary personal information from customer service records.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0c12",
+  "theme_color": "#0c0c12",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
